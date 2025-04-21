@@ -107,6 +107,8 @@ local scripttabList = {
 	-- {"Sticky Bombs", "2A4U8xdA", 1},
 	{"Trap Gun", "5h69z4q4", 1},
 	{"MemeusV2", "1nLFkKS7", 1},
+	{"Death Note", "biALRHTE", 1},
+	{"Noob Baseball Bat", "UQ5WtiYW", 1},
 }
 
 local fescripttabList = {
