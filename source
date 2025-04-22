@@ -109,6 +109,7 @@ local scripttabList = {
 	{"MemeusV2", "1nLFkKS7", 1},
 	{"Death Note", "biALRHTE", 1},
 	{"Noob Baseball Bat", "UQ5WtiYW", 1},
+	{"Glock", "YSrL4Mp7", 1},
 }
 
 local fescripttabList = {
