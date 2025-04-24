@@ -120,23 +120,10 @@ local gameScriptsList = {
 }
 
 local guitabList = {
-	-- {"c00lgui", "Rz2EFsLU", 1},
-	-- {"Topkek 4.0", "d0CJRrcg", 1},
-	-- {"Topkek 3.0", "SikGfE9u", 1},
-	-- {"Ro-Xploit 4.0", 175137115, 2},
-	-- {"Ro-Xploit 5.0", 288646117, 2},
-	-- {"Ro-Xploit 6.0", 364364477, 2},
-	-- {"Dex 2.0", 492005721, 2},
-	-- {"Dex 3.0", 418957341, 2},
 	{"Clown Van", "a5UZuuiT", 1}, -- Added!
 	{"Hell Elevator GUI", "8NYWpf2T", 1}, -- Added!
 	-- {"Chams / Aimlock", "Yi7fzELj", 1},
-	-- {"YourMom GUI", "289110135", 2},
-	-- {"Pepe GUI", "277881926", 2},
-	-- {"Brack Hub", "PT9Gf7d5", 1},
 	{"Vesprin FE GUI", "1231351616", 2},
-	-- {"Music GUI", "U352cdsv", 1},
-  -- {"Infinite Yield", "MjBzRjmT", 1},
 }
 
 local mapsList = {
